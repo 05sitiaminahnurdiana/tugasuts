@@ -1,0 +1,33 @@
+.box{
+	margin: 200px auto;
+	height: 300px;
+	width: 600px;
+
+}
+.atas{
+	height: 60px;
+	width: 600px;
+	background-color: yellow;
+}
+h1{
+text-align: center;
+}
+.kiri{
+	height: 250px;
+	width: 200px;
+	float: left;
+	background-color: red;
+}
+.gambar{
+	background-image: url(nana.jpg);
+	height: 180px;
+	width: 180px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+.kanan{
+	width: 400px;
+	height: 250px;
+	background-color: pink;
+	float: right;
+}
